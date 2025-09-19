@@ -22,7 +22,7 @@ O jogo utiliza **3 posições fixas de tabuleiro** na memória e permite que o j
 | Endereço | Conteúdo | Descrição |
 |----------|----------|-----------|
 | `0x10`   | 0 ou 1   | Posição 00 do tabuleiro |
-| `0x11`   | 0 ou 1   | Posição 02 do tabuleiro |
+| `0x11`   | 0 ou 1   | Posição 04 do tabuleiro |
 | `0x12`   | 0 ou 1   | Posição 08 do tabuleiro |
 | `0x20`   | posição escolhida pelo jogador |
 | `0x21`   | resultado do tiro (`1` = acerto, `0` = erro) |
